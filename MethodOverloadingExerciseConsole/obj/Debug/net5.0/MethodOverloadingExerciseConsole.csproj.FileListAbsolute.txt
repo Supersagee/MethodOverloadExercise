@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\bin\Debug\net5.0\MethodOverloadingExerciseConsole.exe
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\bin\Debug\net5.0\MethodOverloadingExerciseConsole.deps.json
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\bin\Debug\net5.0\MethodOverloadingExerciseConsole.runtimeconfig.json
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\bin\Debug\net5.0\MethodOverloadingExerciseConsole.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\bin\Debug\net5.0\MethodOverloadingExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\bin\Debug\net5.0\ref\MethodOverloadingExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\bin\Debug\net5.0\MethodOverloadingExerciseConsole.pdb
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.AssemblyInfo.cs
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\ref\MethodOverloadingExerciseConsole.dll
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.pdb
+C:\Users\Billy\source\repos\MethodOverloadingExercise\MethodOverloadingExerciseConsole\obj\Debug\net5.0\MethodOverloadingExerciseConsole.genruntimeconfig.cache
